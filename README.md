@@ -5,7 +5,7 @@ The turbulent wind field generator with a wake profile is developed based on sim
 
 Further details of the wind field generation with wake modelling are presented in the paper：
 
-Sun J, Chen Z, Yu H, et al. Quantitative evaluation of yaw-misalignment and aerodynamic wake induced fatigue loads of offshore Wind turbines[J]. Renewable Energy, 2022, 199: 71-86.
+[1] Sun J, Chen Z, Yu H, et al. Quantitative evaluation of yaw-misalignment and aerodynamic wake induced fatigue loads of offshore Wind turbines[J]. Renewable Energy, 2022, 199: 71-86.
 
 
 Please consider to cite this paper if the MATLAB-based turbulent wind field generator is involved in your study.
